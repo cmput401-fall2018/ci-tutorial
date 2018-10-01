@@ -3,7 +3,7 @@ services:
   - docker
 env:
   global:
-    - IMAGE_NAME=ci_tutorial
+    - IMAGE_NAME=cmput401/ci_tutorial
     # - REGISTRY_USER=myrobot
     # REGISTRY_PASS=...
     - secret: "<something long>"
