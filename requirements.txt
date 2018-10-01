@@ -1,7 +1,6 @@
 atomicwrites==1.2.1
 attrs==18.2.0
 Django==2.1.1
-drama-free-django==0.1
 gunicorn==19.9.0
 more-itertools==4.3.0
 pathlib2==2.3.2
